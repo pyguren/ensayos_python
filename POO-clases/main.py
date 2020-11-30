@@ -18,7 +18,7 @@ class Coche:
 
     def setColor(self, color):
         self.color = amarill
-    
+
     def getColor(self)
     return self.color
 
