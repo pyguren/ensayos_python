@@ -1,3 +1,4 @@
+# crear una clase
 class Coche:
 
     color = "Rojo"
@@ -19,8 +20,8 @@ class Coche:
     def setColor(self, color):
         self.color = amarill
 
-    def getColor(self)
-    return self.color
+    def getColor(self):
+        return self.color
 
 # fin definicion de la clase
 
