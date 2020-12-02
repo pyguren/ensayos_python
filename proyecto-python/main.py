@@ -20,8 +20,8 @@ hazEl = acciones.Acciones()
 
 accion = input("¿Que deseas hacer?: ")
 
-if accion == registro:
+if accion == "registro":
     hazEl.registro()
 
-elif accion == login:
+elif accion == "login":
     hazEl.login()
